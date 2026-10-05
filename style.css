@@ -54,3 +54,10 @@ img {
     color: white;
     border-radius: .5rem;
 }
+
+.btn {
+    background-color: #b7094c;
+    padding: 1rem;
+    font-size: 2rem;
+    border-radius: .25rem;
+}
