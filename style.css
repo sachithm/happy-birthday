@@ -67,6 +67,21 @@ a {
 .btn {
     background-color: #b7094c;
     padding: 1rem;
-    font-size: 2rem;
     border-radius: .25rem;
+    font-family: "Bitcount Ink", system-ui;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-variation-settings:
+        "slnt" -8,
+        "CRSV" 1,
+        "ELSH" 0,
+        "ELXP" 100,
+        "SZP1" 7,
+        "SZP2" 0,
+        "XPN1" -2,
+        "XPN2" 11,
+        "YPN1" 4,
+        "YPN2" 0;
+    font-size: 1.75rem;
 }
