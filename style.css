@@ -2,6 +2,9 @@ body {
     background-color: #892b64;
     text-align: center;
     font-family: "Iosevka Charon Mono", monospace;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 h1 {
@@ -13,6 +16,10 @@ h1 {
         "EDPT" 100,
         "EHLT" 12;
     font-size: 5rem;
+}
+
+img {
+    width: 100%
 }
 
 .image-container {
