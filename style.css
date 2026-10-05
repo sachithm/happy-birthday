@@ -11,4 +11,28 @@ h1 {
     font-variation-settings:
         "EDPT" 100,
         "EHLT" 12;
+    font-size: 5rem;
+}
+
+img {
+    max-width: 80%;
+    width: 300px;
+}
+
+.caption {
+  font-family: "Bitcount Ink", system-ui;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  font-variation-settings:
+    "slnt" -8,
+    "CRSV" 1,
+    "ELSH" 26.3,
+    "ELXP" 0,
+    "SZP1" 0,
+    "SZP2" 0,
+    "XPN1" 0,
+    "XPN2" 0,
+    "YPN1" 0,
+    "YPN2" 0;
 }
