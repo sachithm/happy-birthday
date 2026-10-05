@@ -48,3 +48,9 @@ img {
         "YPN2" 0;
     font-size: 1.3rem;
 }
+
+.breakdown {
+    background-color: #455e89;
+    color: white;
+    border-radius: .5rem;
+}
