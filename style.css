@@ -3,8 +3,11 @@ body {
     text-align: center;
     font-family: "Iosevka Charon Mono", monospace;
     display: flex;
+    flex-direction: column;
     justify-content: center;
     align-items: center;
+    color: #004451;
+    font-size: 1.2rem;
 }
 
 h1 {
