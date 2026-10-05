@@ -53,6 +53,9 @@ img {
     background-color: #455e89;
     color: white;
     border-radius: .5rem;
+    padding: 2rem;
+    max-width: 80%;
+    text-align: left;
 }
 
 .btn {
